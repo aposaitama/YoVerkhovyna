@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Верховина: Гуцульські традиції та природа",
+      "description": "Триденний тур в серце Карпат з екскурсіями до гуцульських музеїв, прогулянками по гірським маршрутам і вечорами біля багаття.",
+      "price": 3000,
+      "image": "https://verkhovyna.life/files/Entertainment/Rafting/New1/verkhovynalife-rafting-new-shapka-1.jpg",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Карпатський похід: Верховина",
+      "description": "Чотириденний похід по гірських стежках з досвідченим гідом. Відвідування водоспадів та мальовничих вершин.",
+      "price": 4500,
+      "image": "https://verkhovyna.life/files/Entertainment/Jeep_gaz66/krunta.jpeg",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Релакс тур: Верховина",
+      "description": "Тур для тих, хто хоче насолодитися спокоєм і красою Карпат. Йога на свіжому повітрі та відпочинок у гуцульських садибах.",
+      "price": 3500,
+      "image": "https://verkhovyna.life/files/Entertainment/Rafting_baidarku/New/verkhovynalife-baidik-head-2.jpg",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Сімейний відпочинок у Верховині",
+      "description": "Ідеальний тур для родин з дітьми: активні розваги, прогулянки на конях та інтерактивні майстер-класи з гуцульських ремесел.",
+      "price": 4000,
+      "image": "https://verkhovyna.life/files/Entertainment/Paroplany/verkhvovynalife-paraplany-head.jpg",
+      "available": false
+    },
+    {
+      "id": 5,
+      "name": "Гастрономічний тур по Верховині",
+      "description": "Тур для любителів автентичної кухні. Відвідування традиційних гуцульських ресторанів, дегустація місцевих страв та кулінарні майстер-класи.",
+      "price": 3800,
+      "image": "https://verkhovyna.life/files/Entertainment/Koni_andriy/verkhovynalife-koni-head-2.jpg",
+      "available": true
+    },
+    
+  ]
+    
+}
