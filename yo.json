@@ -1,5 +1,4 @@
-{
-  
+[
     {
       "id": 1,
       "name": "Верховина: Гуцульські традиції та природа",
@@ -39,8 +38,5 @@
       "price": 3800,
       "image": "https://verkhovyna.life/files/Entertainment/Koni_andriy/verkhovynalife-koni-head-2.jpg",
       "available": true
-    },
-    
-  
-    
-}
+    }
+]
